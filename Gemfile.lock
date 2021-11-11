@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    passenger (6.0.12)
+      rack
+      rake (>= 0.8.1)
+    rack (2.2.3)
+    rake (13.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  passenger (>= 5.0.11)
+
+BUNDLED WITH
+   2.1.4
